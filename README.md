@@ -27,4 +27,5 @@ how to use:
  tvarabic.setTypeface(NameFont);
  
  //for set linespacing
+ 
  tvarabic.setLineSpacing(1.1f, 1.1f);
