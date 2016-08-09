@@ -2,7 +2,17 @@
 this fonts optimize for show arabic and farsi font in textview android well.
 All number in this fonts show farsi number or arabic.
 
-this fonts show quran or doa or other arabic and farsi text very well in android 4.0 ,4.1,4.2,4.3,4.4,5,5.1,6 .
+this fonts show quran or doa or other arabic and farsi text very well in: 
+
+android 4.0 ,
+android 4.1,
+android 4.2,
+android 4.3,
+android 4.4,
+android 5,
+android 5.1,
+android 6
+
 Al Qalam New.otf
 ZAR New.otf
 taha.otf
