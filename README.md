@@ -13,8 +13,8 @@ android 5,
 android 5.1,
 android 6
 
-Al Qalam New.otf
-ZAR New.otf
+Al Qalam New.otf, 
+ZAR New.otf, 
 taha.otf
 
 ------------------------------------------------------------------
@@ -26,6 +26,6 @@ how to use:
  
  tvarabic.setTypeface(NameFont);
  
- //for set linespacing
+ //for set linespacing:
  
  tvarabic.setLineSpacing(1.1f, 1.1f);
