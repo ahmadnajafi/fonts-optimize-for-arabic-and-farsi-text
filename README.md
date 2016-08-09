@@ -11,7 +11,9 @@ taha.otf
 how to use:
 
  TextView tvarabic = (TextView) findViewById(R.id.tvArabic);
+ 
  Typeface NameFont = Typeface.createFromAsset(this.getAssets(), "fonts/Al Qalam New.otf");
+ 
  tvarabic.setTypeface(NameFont);
  
  //for set linespacing
