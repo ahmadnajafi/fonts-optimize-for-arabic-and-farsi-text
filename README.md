@@ -20,6 +20,8 @@ taha.otf
 ------------------------------------------------------------------
 how to use:
 
+first copy fonts to assets/fonts folder.
+
  TextView tvarabic = (TextView) findViewById(R.id.tvArabic);
  
  Typeface NameFont = Typeface.createFromAsset(this.getAssets(), "fonts/Al Qalam New.otf");
