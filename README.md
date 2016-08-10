@@ -13,10 +13,6 @@ android 5,
 android 5.1,
 android 6
 
-Al Qalam New.otf, 
-ZAR New.otf, 
-taha.otf
-
 ------------------------------------------------------------------
 how to use:
 
